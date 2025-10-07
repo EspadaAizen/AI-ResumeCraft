@@ -1,11 +1,29 @@
 # 🧠 AI ResumeCraft
 
-Create, edit, and polish resumes with AI.  
-Supports:
-- 📄 Upload & edit JSON resumes
-- ✍️ Rewrite bullet points with AI
-- 👀 Resume preview in app
-- 📥 Download as JSON or PDF
+> ✨ Create, edit, and polish resumes with AI — directly in your browser.  
+> Build from scratch, upload existing JSON resumes, edit them visually, and download as PDF — no setup needed!
+
+[![Streamlit](https://img.shields.io/badge/Live_App-Streamlit-blue?logo=streamlit)](https://ai-resumecraft-3zenwduk3qkwdmpsgfpbrm.streamlit.app/)
+[![Python](https://img.shields.io/badge/Built_with-Python-yellow?logo=python)](https://www.python.org/)
+[![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
+
+---
+
+## 🌐 Live Demo
+Try it instantly here:  
+👉 [https://ai-resumecraft-3zenwduk3qkwdmpsgfpbrm.streamlit.app/](https://ai-resumecraft-3zenwduk3qkwdmpsgfpbrm.streamlit.app/)
+
+---
+
+## ✨ Features
+- 📄 **Upload & Edit JSON Resumes** — Upload your resume and edit all fields in a clean UI.
+- ✍️ **AI Resume Rewriter** — Rewrite your bullet points into professional, action-focused language.
+- 🧩 **Resume Builder** — Create a JSON resume from scratch using form inputs.
+- 👀 **In-App Preview** — See your resume in formatted view instantly.
+- 📥 **Download as JSON or PDF** — Export resumes with one click.
+- ⚙️ **Mock or Real AI Mode** — Works offline (mock mode) or online with OpenAI/Ollama.
+
+---
 
 ## 📂 Structure
 - `backend/` → FastAPI app
